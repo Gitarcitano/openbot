@@ -4,7 +4,7 @@ React Native app built with Expo SDK 57, Expo Router, TypeScript 7, Biome, and B
 
 ## Requirements
 
-- Node.js 24 or newer (the repository pins 24 in `.nvmrc`)
+- Node.js 24.22.1 or newer (`.nvmrc` names major version 24; an older patch does not satisfy `engines`)
 - Bun 1.4.2 (the version in the root `packageManager`)
 - Expo Go for device testing, including the WebRTC server connection
 
